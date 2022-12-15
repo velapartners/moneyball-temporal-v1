@@ -109,3 +109,7 @@ venv.bak/
 
 # apple specific
 .DS_Store
+
+# get checkpoints
+.\test_models
+.\test_modelsv2
