@@ -19,5 +19,4 @@ Finally to activate the environment run:
 
 Alternatively activate the environemtn in your favourite IDE
 ### Usage
-tbd.
-### key references
+The project is split into three key .ipynb workbooks. dataLoading.ipynb loads the basic data and saves it, feature_exploration.ipynb gives the results relating to feature engineering and exploration presented in the paper Make sure to set the correct data path. LogRegmodelling.ipynb gives the key results on logistic regression. Finally Network.ipynb give the Neural network training results.
