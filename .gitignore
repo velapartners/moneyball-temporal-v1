@@ -103,9 +103,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-
 # data
-/data
+data/failure/
+data/success/
 
 # apple specific
 .DS_Store
