@@ -1,6 +1,6 @@
 # Moneyball V2
 ### Description
-A repositroy to contain all code related to the micro internship project at Vela Partners.<br> The repository will contain key data loading, feature engineering, and modelling for the Moneyball V2 project.
+A repository to contain all code related to the micro internship project at Vela Partners.<br> The repository will contain key data loading, feature engineering, and modelling for the Moneyball V2 project.
 ### Contributors
 Jirko
 ### Dependencies
